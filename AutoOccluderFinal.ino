@@ -2,7 +2,7 @@
 |                                                                             |
 | Title:    AutoOccluder.ino                                                  |
 |           ----------------                                                  |
-| Version:  0.1.1                                                   |
+| Version:  0.1.1                                                             |
 | Date:     30/01/2025 (curr)                                                 |
 | Author:   deians@liv.ac.uk (W213@SoE@UoL)                                   |
 | Customer: sgjtowle@liv.ac.uk                                                |
