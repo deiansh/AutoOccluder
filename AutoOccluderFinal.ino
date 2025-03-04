@@ -7,7 +7,7 @@
 | Author:   deians@liv.ac.uk (W213@SoE@UoL)                                   |
 | Customer: sgjtowle@liv.ac.uk                                                |
 | End User: Alder Hey                                                         |
-|                                                                          80>|
+|                                                                             |
 \============================================================================*/
 
 /*-----
